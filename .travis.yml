@@ -4,7 +4,7 @@ node_js:
 install:
   - npm install -g vuepress
 script:
-  - vuepress build && cd .vuepress/dist && echo 'www.customdomain.com' > CNAME
+  - vuepress build
 deploy:
   provider: pages
   skip-cleanup: true
