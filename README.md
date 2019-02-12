@@ -58,5 +58,19 @@ nix-env -qa
 nix-env -qaP gimp
 ```
 
+## Install example program. Hello World. 
+
+Type in your terminal.
+
+```sh
+nix-env -i hello
+```
+
+Test installed program. It should print `Hello World` in your Terminal.
+
+```sh
+hello
+```
+
 
 [Deutsch](/de/)
