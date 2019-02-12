@@ -32,9 +32,9 @@ nix (Nix) 2.2.1
 
 # Installing a programm using nix
 
-:: tip
+::: tip
 When you instaled nix you also installed `nix-env` utility.
-::
+:::
 
 `NUF`
 
