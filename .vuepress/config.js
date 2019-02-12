@@ -4,14 +4,8 @@ module.exports = {
   base: "/nixos/",
   themeConfig: {
     sidebar: [
-      {
-        title,
-        collapsable: false,
-        children: [
-          '',
-          'nested',
-        ]
-      }
+      '/',
+      ['/nested', 'Explicit link text']
     ],
     navbar: true,
 
