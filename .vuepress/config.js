@@ -4,7 +4,14 @@ module.exports = {
   base: "/nixos/",
   themeConfig: {
     sidebar: [
-      '/',
+      {
+        title,
+        collapsable: false,
+        children: [
+          '',
+          'nested',
+        ]
+      }
     ],
     navbar: true,
 
