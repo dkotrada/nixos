@@ -38,9 +38,10 @@ When you instaled nix you also installed `nix-env` utility.
 
 `NUF`
 
-The command nix-env is used to manipulate Nix user environments. User environments are sets of software packages available to a
-user at some point in time. In other words, they are a synthesised view of the programs available in the Nix store. There may be
-many user environments: different users can have different environments, and individual users can switch between different
+The command `nix-env` is used to manage Nix user environments. User environments are sets of software packages available to a
+user. In other words, they are a synthesised view of the programs available in the Nix store. 
+
+There may be many user environments: different users can have different environments, and individual users can switch between different
 environments.
 
 ## Search if programm is available in `nix store`
