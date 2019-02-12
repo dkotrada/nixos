@@ -43,6 +43,21 @@ user at some point in time. In other words, they are a synthesised view of the p
 many user environments: different users can have different environments, and individual users can switch between different
 environments.
 
+## Search if programm is available over nix
+
+1. List all available programs. Type in your terminal.
+`NUF`
+```sh
+nix-env -qa
+```
+
+2. Search for specific program. Type in your terminal.
+`NUF`
+```sh
+nix-env -qaP gimp
+```
+
+
 [Deutsch](/de/)
 
 ::: tip
