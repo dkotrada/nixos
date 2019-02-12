@@ -17,5 +17,9 @@ module.exports = {
       },
       { text: 'Contribute', link: 'https://github.com/dkotrada/nixos' },
     ],
+    sidebar: [
+      '/',
+      ['/nested', 'Explicit link text']
+    ]
   }
 }
