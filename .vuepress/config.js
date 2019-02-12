@@ -3,6 +3,10 @@ module.exports = {
   description: "Nix Package Manager - User friendly documenation",
   base: "/nixos/",
   themeConfig: {
+    sidebar: [
+      '/',
+      ['/nested', 'Explicit link text']
+    ],
     navbar: true,
 
     nav: [
@@ -16,10 +20,6 @@ module.exports = {
         ]
       },
       { text: 'Contribute', link: 'https://github.com/dkotrada/nixos' },
-    ],
-    sidebar: [
-      '/',
-      ['/nested', 'Explicit link text']
     ]
   }
 }
