@@ -52,7 +52,7 @@ environments.
 nix-env -qa
 ```
 
-2. Search for specific program. Type in your terminal.
+2. Search for specific program.
 `NUF`
 ```sh
 nix-env -qaP gimp
@@ -60,17 +60,22 @@ nix-env -qaP gimp
 
 ## Install example program. Hello World. 
 
-Type in your terminal.
 
 ```sh
 nix-env -i hello
 ```
-
 Test installed program. It should print `Hello World` in your Terminal.
 
 ```sh
 hello
 ```
+
+## Uninstall program.
+
+```sh
+nix-env -e hello
+```
+
 
 
 [Deutsch](/de/)
