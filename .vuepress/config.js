@@ -12,8 +12,7 @@ module.exports = {
       {
         text: 'Languages',
         items: [
-          { text: 'English', items: [{ text: 'Home', link: '/' }] },
-          { text: 'Russian', items: [{ text: 'Home', link: '/' }] },
+          { text: 'English', link: '/' },
           { text: 'Deutsch',  link: '/de/' }
         ]
       },
