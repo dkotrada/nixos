@@ -6,7 +6,7 @@ meta:
     content: Providing best user experience
 ---
 
-::: tip
+::: tip Note
 This should be a user friendly documentation. 
 Sections considered not user friendly are marked with `NUF` key.
 :::
