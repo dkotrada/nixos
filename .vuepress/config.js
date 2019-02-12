@@ -1,6 +1,6 @@
 module.exports = {
   title: "Nix Package Manager",
-  description: "Nix Package Manger - User friendly documenation",
+  description: "Nix Package Manager - User friendly documenation",
   base: "/nixos/",
   themeConfig: {
     navbar: true,
@@ -8,15 +8,14 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Deutsch', link: '/de/' },
-      { text: 'Contribute', link: 'https://github.com/dkotrada/nixos' },
       {
         text: 'Languages',
         items: [
           { text: 'English', link: '/' },
-          { text: 'Deutsch',  link: '/de/' }
+          { text: 'Deutsch', link: '/de/' }
         ]
       },
+      { text: 'Contribute', link: 'https://github.com/dkotrada/nixos' },
     ],
-
   }
 }
