@@ -75,7 +75,3 @@ hello
 ```sh
 nix-env -e hello
 ```
-
-
-
-[Deutsch](/de/)
