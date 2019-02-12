@@ -43,7 +43,7 @@ user at some point in time. In other words, they are a synthesised view of the p
 many user environments: different users can have different environments, and individual users can switch between different
 environments.
 
-## Search if programm is available over nix
+## Search if programm is available in `nix store`
 
 1. List all available programs. Type in your terminal.
 `NUF`
