@@ -15,6 +15,7 @@ Sections considered not user friendly are marked with `NUF` key.
 
 ::: tip Supported Platforms
 Linux i686, x86_64, aarch64
+
 macOS x86_64
 :::
 
