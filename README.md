@@ -6,7 +6,12 @@ meta:
     content: Providing best user experience
 ---
 
-# Install nix package manager
+::: tip
+This should be a user friendly documentation. 
+Sections considered not user friendly are marked with `NUF` key.
+:::
+
+# Install nix
 
 1. Run the following in your terminal, then follow the onscreen instructions.
 
@@ -25,6 +30,7 @@ nix --version
 nix (Nix) 2.2.1
 ```
 
+# Installing a programm using nix 
 
 [Deutsch](/de/)
 
