@@ -3,7 +3,7 @@ meta:
   - name: Nix Package Manager
     content: Nix Package Manager User Friendly Documentation
   - name: nixpkg, nixos, haskel
-    content: Providing best user experience
+    content: Providing better user experience
 ---
 
 ::: tip Note
