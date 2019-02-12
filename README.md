@@ -1,12 +1,18 @@
 ---
 meta:
-  - name: NixOS Documantation
-    content: NixOS Documentation best effort
+  - name: Nix Package Manager
+    content: Nix Package Manager User Friendly Documentation
   - name: nixpkg, nixos, haskel
-    content: super duper SEO
+    content: Providing best user experience
 ---
 
-# Hello NixOS two
+# Install nix package manager
+
+Run the following in your terminal, then follow the onscreen instructions.
+
+```sh
+sh <(curl https://nixos.org/nix/install)
+```
 
 [Deutsch](/de/)
 
