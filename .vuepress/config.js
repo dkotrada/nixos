@@ -5,7 +5,6 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/',
-      ['/nested', 'Explicit link text']
     ],
     navbar: true,
 
