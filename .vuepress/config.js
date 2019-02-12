@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Hello NixOS World",
-  description: "Just playing around",
+  title: "Nix Package Manager",
+  description: "Nix Package Manger - User friendly documenation",
   base: "/nixos/"
 }
