@@ -13,6 +13,11 @@ Sections considered not user friendly are marked with `NUF` key.
 
 # Install nix
 
+::: tip Supported Platforms
+Linux i686, x86_64, aarch64
+macOS x86_64
+:::
+
 1. Run the following in your terminal, then follow the onscreen instructions.
 
 ```sh
