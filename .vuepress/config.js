@@ -14,7 +14,7 @@ module.exports = {
         items: [
           { text: 'English', items: [{ text: 'Home', link: '/' }] },
           { text: 'Russian', items: [{ text: 'Home', link: '/' }] },
-          { text: 'Deutsch', items: [{ text: 'Home', link: '/' }] }
+          { text: 'Deutsch',  link: '/de/' }
         ]
       },
     ],
