@@ -22,7 +22,11 @@ module.exports = {
           { text: 'Group2', items: [/*  */] }
         ]
       },
-
+    ],
+    sidebar: [
+      '/',
+      '/page-a',
+      ['/page-b', 'Explicit link text']
     ]
   }
 }
